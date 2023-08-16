@@ -57,6 +57,7 @@
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\LevelManager.cs" />
      <Compile Include="Assets\Scripts\LevelState.cs" />
+     <Compile Include="Assets\Scripts\BackgroundScroller.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.26f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
@@ -645,17 +646,11 @@
  <Reference Include="PsdPlugin">
  <HintPath>C:/Users/PC/geometryDashP/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
  </Reference>
- <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/PC/geometryDashP/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
- </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
  <HintPath>C:/Users/PC/geometryDashP/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
  <HintPath>C:/Users/PC/geometryDashP/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
- </Reference>
- <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/PC/geometryDashP/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.IK.Editor">
  <HintPath>C:/Users/PC/geometryDashP/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>

@@ -1,0 +1,1545 @@
+fileFormatVersion: 2
+guid: 94aa9bdfe35358940ae2b643bfac62bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6977613615879084943
+    second: Geometry Dash Font_0
+  - first:
+      213: -5278854993071518031
+    second: Geometry Dash Font_1
+  - first:
+      213: 6258727603168741677
+    second: Geometry Dash Font_2
+  - first:
+      213: -3333964000237374657
+    second: Geometry Dash Font_3
+  - first:
+      213: 1486903490919649867
+    second: Geometry Dash Font_4
+  - first:
+      213: -7127448241020294325
+    second: Geometry Dash Font_5
+  - first:
+      213: -9082012942163310896
+    second: Geometry Dash Font_6
+  - first:
+      213: 6898921200340285953
+    second: Geometry Dash Font_7
+  - first:
+      213: 5425275043984887793
+    second: Geometry Dash Font_8
+  - first:
+      213: 2573952758297349668
+    second: Geometry Dash Font_9
+  - first:
+      213: -6252812223717459619
+    second: Geometry Dash Font_10
+  - first:
+      213: 3230444102722263215
+    second: Geometry Dash Font_11
+  - first:
+      213: -6024372699395123495
+    second: Geometry Dash Font_12
+  - first:
+      213: -1228366981285605553
+    second: Geometry Dash Font_13
+  - first:
+      213: 5783926101766544181
+    second: Geometry Dash Font_14
+  - first:
+      213: 1680413016859934879
+    second: Geometry Dash Font_15
+  - first:
+      213: -1871986048465582685
+    second: Geometry Dash Font_16
+  - first:
+      213: 2699118301360584372
+    second: Geometry Dash Font_17
+  - first:
+      213: 7100586995922816750
+    second: Geometry Dash Font_18
+  - first:
+      213: 2689044126112960348
+    second: Geometry Dash Font_19
+  - first:
+      213: -3529159302980988239
+    second: Geometry Dash Font_20
+  - first:
+      213: 5489758017497098980
+    second: Geometry Dash Font_21
+  - first:
+      213: -1314337707855374631
+    second: Geometry Dash Font_22
+  - first:
+      213: -162301777473969477
+    second: Geometry Dash Font_23
+  - first:
+      213: -2338244438367296025
+    second: Geometry Dash Font_24
+  - first:
+      213: 6217471200178797918
+    second: Geometry Dash Font_25
+  - first:
+      213: -7496211724735055108
+    second: Geometry Dash Font_26
+  - first:
+      213: -5636250389597024061
+    second: Geometry Dash Font_27
+  - first:
+      213: -8879764694163987317
+    second: Geometry Dash Font_28
+  - first:
+      213: 3415908739552058598
+    second: Geometry Dash Font_29
+  - first:
+      213: -6317130172591423077
+    second: Geometry Dash Font_30
+  - first:
+      213: 1790040712289778175
+    second: Geometry Dash Font_31
+  - first:
+      213: 6815593771114334052
+    second: Geometry Dash Font_32
+  - first:
+      213: 5101108076574503781
+    second: Geometry Dash Font_33
+  - first:
+      213: -5613273958583242288
+    second: Geometry Dash Font_34
+  - first:
+      213: 75102754237334592
+    second: Geometry Dash Font_35
+  - first:
+      213: 2443428368982099666
+    second: Geometry Dash Font_36
+  - first:
+      213: -6125749478422431951
+    second: Geometry Dash Font_37
+  - first:
+      213: -5176175616314951020
+    second: Geometry Dash Font_38
+  - first:
+      213: 3512963931013391807
+    second: Geometry Dash Font_39
+  - first:
+      213: -5895380608508802429
+    second: Geometry Dash Font_40
+  - first:
+      213: 2926095086501315074
+    second: Geometry Dash Font_41
+  - first:
+      213: 2662400759765314806
+    second: Geometry Dash Font_42
+  - first:
+      213: 318784809215610588
+    second: Geometry Dash Font_43
+  - first:
+      213: -2747788085666635664
+    second: Geometry Dash Font_44
+  - first:
+      213: 6426925349653080536
+    second: Geometry Dash Font_45
+  - first:
+      213: 5218901957424064102
+    second: Geometry Dash Font_46
+  - first:
+      213: 6438280142915078773
+    second: Geometry Dash Font_47
+  - first:
+      213: 5972358544391479528
+    second: Geometry Dash Font_48
+  - first:
+      213: 4975759478187946790
+    second: Geometry Dash Font_49
+  - first:
+      213: 7484228557401575659
+    second: Geometry Dash Font_50
+  - first:
+      213: 7693540769653536067
+    second: Geometry Dash Font_51
+  - first:
+      213: 7780778492687716998
+    second: Geometry Dash Font_52
+  - first:
+      213: 4142565995572151769
+    second: Geometry Dash Font_53
+  - first:
+      213: 4819865906191393142
+    second: Geometry Dash Font_54
+  - first:
+      213: 3303061502630462206
+    second: Geometry Dash Font_55
+  - first:
+      213: 3073825599705346101
+    second: Geometry Dash Font_56
+  - first:
+      213: -2549624764148791803
+    second: Geometry Dash Font_57
+  - first:
+      213: 7330653557317653871
+    second: Geometry Dash Font_58
+  - first:
+      213: 2028488037342752351
+    second: Geometry Dash Font_59
+  - first:
+      213: -8514216769687574508
+    second: Geometry Dash Font_60
+  - first:
+      213: -6895971540424497748
+    second: Geometry Dash Font_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Geometry Dash Font_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 155
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bd66a5d9675d060800000000000000
+      internalID: 6977613615879084943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 155
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1becc253a5dbdb6b0800000000000000
+      internalID: -5278854993071518031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 159
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d290ecc48977bd650800000000000000
+      internalID: 6258727603168741677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 155
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3339e7e7616bb1d0800000000000000
+      internalID: -3333964000237374657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 159
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42dd87d8da82a410800000000000000
+      internalID: 1486903490919649867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 159
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ba00f6697361d90800000000000000
+      internalID: -7127448241020294325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 159
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d60bd0095536f180800000000000000
+      internalID: -9082012942163310896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 159
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ab1b79744edbf50800000000000000
+      internalID: 6898921200340285953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 159
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffc28d78e27a4b40800000000000000
+      internalID: 5425275043984887793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 159
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e43f2756488b320800000000000000
+      internalID: 2573952758297349668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_10
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 155
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59b91e496c8939a0800000000000000
+      internalID: -6252812223717459619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_11
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 159
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa81489bbc7d4dc20800000000000000
+      internalID: 3230444102722263215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_12
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 155
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d61ef9c2f0256ca0800000000000000
+      internalID: -6024372699395123495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_13
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 159
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f07aa1db6f3fee0800000000000000
+      internalID: -1228366981285605553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_14
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 159
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b97ee1522a44050800000000000000
+      internalID: 5783926101766544181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_15
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 155
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9001e15cb6025710800000000000000
+      internalID: 1680413016859934879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_16
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 155
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5c8bc6b9e5506e0800000000000000
+      internalID: -1871986048465582685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_17
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 155
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b67a576bc1357520800000000000000
+      internalID: 2699118301360584372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_18
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 159
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeccb4904a5a8260800000000000000
+      internalID: 7100586995922816750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_19
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 159
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f4052b267615520800000000000000
+      internalID: 2689044126112960348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_20
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 159
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b29d0eef48e50fc0800000000000000
+      internalID: -3529159302980988239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 85
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea64c7b4d98f2c40800000000000000
+      internalID: 5489758017497098980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 85
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6116081d882cde0800000000000000
+      internalID: -1314337707855374631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 81
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2ef3fa4636fbdf0800000000000000
+      internalID: -162301777473969477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_24
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 81
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5a5156213ec8fd0800000000000000
+      internalID: -2338244438367296025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 85
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5df0ef6d15e84650800000000000000
+      internalID: 6217471200178797918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 81
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa7c0a272b18f790800000000000000
+      internalID: -7496211724735055108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 81
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c099eef12408c1b0800000000000000
+      internalID: -5636250389597024061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_28
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 81
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84ec43ce0db4c480800000000000000
+      internalID: -8879764694163987317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 81
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec172e76eeb76f20800000000000000
+      internalID: 3415908739552058598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_30
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 85
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9149ced39b0558a0800000000000000
+      internalID: -6317130172591423077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 85
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9f4853b8087d810800000000000000
+      internalID: 1790040712289778175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_32
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46782ac9c6ad59e50800000000000000
+      internalID: 6815593771114334052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_33
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 77
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5637911d4c6cac640800000000000000
+      internalID: 5101108076574503781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_34
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 77
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1f1b73315a912b0800000000000000
+      internalID: -5613273958583242288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_35
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 93
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04448fb9e81da0100800000000000000
+      internalID: 75102754237334592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_36
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d64a4fd72dc8e120800000000000000
+      internalID: 2443428368982099666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_37
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 89
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137b8931e47fcfaa0800000000000000
+      internalID: -6125749478422431951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_38
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 77
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a328693b78a28b0800000000000000
+      internalID: -5176175616314951020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_39
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 77
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb520d0351e80c030800000000000000
+      internalID: 3512963931013391807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_40
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 81
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a4b1652966f2ea0800000000000000
+      internalID: -5895380608508802429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_41
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 81
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2024de16af39b9820800000000000000
+      internalID: 2926095086501315074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_42
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 81
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcaa8f826fb2f420800000000000000
+      internalID: 2662400759765314806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0702ac36b45edd9d0800000000000000
+      internalID: -2747788085666635664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_45
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 27
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d96600ed86013950800000000000000
+      internalID: 6426925349653080536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_46
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 23
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6662ad9eda34d6840800000000000000
+      internalID: 5218901957424064102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_48
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 27
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e029b5047412e250800000000000000
+      internalID: 5972358544391479528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 7
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623fc29f1e27d0540800000000000000
+      internalID: 4975759478187946790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_50
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 11
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be051c548325dd760800000000000000
+      internalID: 7484228557401575659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_51
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 11
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3453f206192f4ca60800000000000000
+      internalID: 7693540769653536067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_52
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 11
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68296a490d0eafb60800000000000000
+      internalID: 7780778492687716998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_53
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 7
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5c0b023d95d7930800000000000000
+      internalID: 4142565995572151769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_54
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 7
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671ed83418a93e240800000000000000
+      internalID: 4819865906191393142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_55
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 11
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef28e8fafe4d6dd20800000000000000
+      internalID: 3303061502630462206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_56
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 7
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53070fbd81c68aa20800000000000000
+      internalID: 3073825599705346101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_57
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 11
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5064f5619c9ed9cd0800000000000000
+      internalID: -2549624764148791803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_58
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 11
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f655f572296bbb560800000000000000
+      internalID: 7330653557317653871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_59
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 7
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ea1f06f13a62c10800000000000000
+      internalID: 2028488037342752351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geometry Dash Font_60
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 11
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418291e45fc67d980800000000000000
+      internalID: -8514216769687574508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

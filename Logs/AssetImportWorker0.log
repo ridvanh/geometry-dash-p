@@ -1588,3 +1588,357 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4004.449128 seconds.
+  path: Assets/Graphics/UI/game_bg_03_001-hd.png
+  artifactKey: Guid(2ae4f746a0ecdc446929f17dfd1a92a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/game_bg_03_001-hd.png using Guid(2ae4f746a0ecdc446929f17dfd1a92a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed8e58e84ec98fba82cde8b44b4e9cbb') in 0.123397 seconds 
+  Import took 0.127038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.914339 seconds.
+  path: Assets/Graphics/UI/MenuBackground.png
+  artifactKey: Guid(2ae4f746a0ecdc446929f17dfd1a92a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/MenuBackground.png using Guid(2ae4f746a0ecdc446929f17dfd1a92a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a6a7f2c149e084ca15d85f6d0fc5936') in 0.036775 seconds 
+  Import took 0.039683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 274.291441 seconds.
+  path: Assets/Graphics/UI/Custom Edited - Geometry Dash Customs - Buttons Main Menu.png
+  artifactKey: Guid(dddbfa5b05db78a41b76ef62a7db2113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/Custom Edited - Geometry Dash Customs - Buttons Main Menu.png using Guid(dddbfa5b05db78a41b76ef62a7db2113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ce5a5e9192f97ef4ff6c6f521f9a78') in 0.023653 seconds 
+  Import took 0.027186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.875784 seconds.
+  path: Assets/Graphics/UI/Custom Edited - Geometry Dash Customs - Buttons Main Menu.png
+  artifactKey: Guid(dddbfa5b05db78a41b76ef62a7db2113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/Custom Edited - Geometry Dash Customs - Buttons Main Menu.png using Guid(dddbfa5b05db78a41b76ef62a7db2113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5776528e547de9b2e3094245e8a5ff8e') in 0.024449 seconds 
+  Import took 0.027614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.967347 seconds.
+  path: Assets/Graphics/UI/Custom Edited - Geometry Dash Customs - Buttons Main Menu.png
+  artifactKey: Guid(dddbfa5b05db78a41b76ef62a7db2113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/Custom Edited - Geometry Dash Customs - Buttons Main Menu.png using Guid(dddbfa5b05db78a41b76ef62a7db2113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5153076811dc2e76cc86bd074ddafb') in 0.064096 seconds 
+  Import took 0.067320 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004215 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.756 seconds
+Domain Reload Profiling:
+	ReloadAssembly (756ms)
+		BeginReloadAssembly (130ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (63ms)
+		EndReloadAssembly (580ms)
+			LoadAssemblies (70ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (185ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (226ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (136ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2191 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.7 MB.
+System memory in use after: 98.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2727.
+Total: 2.523700 ms (FindLiveObjects: 0.173700 ms CreateObjectMapping: 0.057900 ms MarkObjects: 2.275500 ms  DeleteObjects: 0.015800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 157.507646 seconds.
+  path: Assets/Graphics/UI/Custom Edited - Geometry Dash Customs - Title Screen Font Oxygene 1 Font.png
+  artifactKey: Guid(a55f04f1f001d1940a9eb0c568af0d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/Custom Edited - Geometry Dash Customs - Title Screen Font Oxygene 1 Font.png using Guid(a55f04f1f001d1940a9eb0c568af0d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47335a388d5c801d9771fd415d1acd82') in 0.043709 seconds 
+  Import took 0.047014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.319963 seconds.
+  path: Assets/Graphics/UI/Custom Edited - Geometry Dash Customs - Title Screen Font Oxygene 1 Font.png
+  artifactKey: Guid(a55f04f1f001d1940a9eb0c568af0d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/Custom Edited - Geometry Dash Customs - Title Screen Font Oxygene 1 Font.png using Guid(a55f04f1f001d1940a9eb0c568af0d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf39461019e9f720757c42e8a1ce954') in 0.026525 seconds 
+  Import took 0.029558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.876550 seconds.
+  path: Assets/Graphics/UI/PC Computer - Geometry Dash - Logos.png
+  artifactKey: Guid(f1f50374a7e94f74cadf9706e139c262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/PC Computer - Geometry Dash - Logos.png using Guid(f1f50374a7e94f74cadf9706e139c262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44d9a56bd10c45d17e998bdfcca5692') in 0.043541 seconds 
+  Import took 0.047290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.555186 seconds.
+  path: Assets/Graphics/UI/PC Computer - Geometry Dash - Logos.png
+  artifactKey: Guid(f1f50374a7e94f74cadf9706e139c262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/PC Computer - Geometry Dash - Logos.png using Guid(f1f50374a7e94f74cadf9706e139c262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef0c0cda366025532548a0a154541573') in 0.019185 seconds 
+  Import took 0.022398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.615693 seconds.
+  path: Assets/Graphics/UI/PC Computer - Geometry Dash - Logos.png
+  artifactKey: Guid(f1f50374a7e94f74cadf9706e139c262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/PC Computer - Geometry Dash - Logos.png using Guid(f1f50374a7e94f74cadf9706e139c262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '776e8584674cf5fca966d1cc2f4bcaa6') in 0.023639 seconds 
+  Import took 0.027074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.165940 seconds.
+  path: Assets/Graphics/UI/PC Computer - Geometry Dash - Logos.png
+  artifactKey: Guid(f1f50374a7e94f74cadf9706e139c262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/PC Computer - Geometry Dash - Logos.png using Guid(f1f50374a7e94f74cadf9706e139c262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b9120a7bdeef9c6737152ca31ad535') in 0.021888 seconds 
+  Import took 0.025522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4744.344604 seconds.
+  path: Assets/Graphics/UI/gjFont04-hd.png
+  artifactKey: Guid(3d304a43b2f3a5a45b9b7858e9b589df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/gjFont04-hd.png using Guid(3d304a43b2f3a5a45b9b7858e9b589df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6c57080ee81b895490a6fb3b032575') in 0.055224 seconds 
+  Import took 0.065975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.165292 seconds.
+  path: Assets/Graphics/UI/Font
+  artifactKey: Guid(d0241cb0c3b306c4da31f60ec34b10bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/Font using Guid(d0241cb0c3b306c4da31f60ec34b10bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '591ffdef6867b6db8560a7b45ffb9771') in 0.012159 seconds 
+  Import took 0.015807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.140285 seconds.
+  path: Assets/Graphics/UI/LoRes9PlusOTNarrow-Bold.ttf
+  artifactKey: Guid(1312a88978cffc14b9c093d296b437d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/LoRes9PlusOTNarrow-Bold.ttf using Guid(1312a88978cffc14b9c093d296b437d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72613fc8a4b9036dad28459a7a0438c8') in 0.101788 seconds 
+  Import took 0.105029 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004419 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.879 seconds
+Domain Reload Profiling:
+	ReloadAssembly (881ms)
+		BeginReloadAssembly (153ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (78ms)
+		EndReloadAssembly (679ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (226ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (252ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (148ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2095 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.0 MB.
+System memory in use after: 98.6 MB.
+
+Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 2713.
+Total: 2.879500 ms (FindLiveObjects: 0.158200 ms CreateObjectMapping: 0.055900 ms MarkObjects: 2.407800 ms  DeleteObjects: 0.256800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 410.458336 seconds.
+  path: Assets/Graphics/UI/LoRes9PlusOTNarrow-Bold.ttf
+  artifactKey: Guid(1312a88978cffc14b9c093d296b437d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/LoRes9PlusOTNarrow-Bold.ttf using Guid(1312a88978cffc14b9c093d296b437d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f2fc964574bc0288b295f9eb7f991c4') in 0.058157 seconds 
+  Import took 0.061593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.211237 seconds.
+  path: Assets/Graphics/UI/LoRes9PlusOTNarrow-Bold.ttf
+  artifactKey: Guid(1312a88978cffc14b9c093d296b437d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/LoRes9PlusOTNarrow-Bold.ttf using Guid(1312a88978cffc14b9c093d296b437d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463768fa5c2df219434238875faa333f') in 0.026182 seconds 
+  Import took 0.029217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.108642 seconds.
+  path: Assets/Graphics/UI/LoRes9PlusOTNarrow-Bold.ttf
+  artifactKey: Guid(1312a88978cffc14b9c093d296b437d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/LoRes9PlusOTNarrow-Bold.ttf using Guid(1312a88978cffc14b9c093d296b437d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4470fc4327f5d508a05274f8d322ced2') in 0.014217 seconds 
+  Import took 0.017228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1263.633409 seconds.
+  path: Assets/Graphics/UI/Font/Geometry Dash Font.png
+  artifactKey: Guid(94aa9bdfe35358940ae2b643bfac62bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/Font/Geometry Dash Font.png using Guid(94aa9bdfe35358940ae2b643bfac62bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af930db335e7c51bfb3eafe646c8335c') in 0.052095 seconds 
+  Import took 0.055493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.413806 seconds.
+  path: Assets/Graphics/UI/Font/Geometry Dash Font.png
+  artifactKey: Guid(94aa9bdfe35358940ae2b643bfac62bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/Font/Geometry Dash Font.png using Guid(94aa9bdfe35358940ae2b643bfac62bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e586b66025613c1d1dcffdb1fc841838') in 0.017743 seconds 
+  Import took 0.020792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.623654 seconds.
+  path: Assets/Graphics/UI/Font/Geometry Dash Font.png
+  artifactKey: Guid(94aa9bdfe35358940ae2b643bfac62bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/Font/Geometry Dash Font.png using Guid(94aa9bdfe35358940ae2b643bfac62bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3460fb940089a3c94c769b5e74a4a762') in 0.017167 seconds 
+  Import took 0.020514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.366510 seconds.
+  path: Assets/Graphics/UI/Font/Geometry Dash Font.png
+  artifactKey: Guid(94aa9bdfe35358940ae2b643bfac62bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/Font/Geometry Dash Font.png using Guid(94aa9bdfe35358940ae2b643bfac62bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2e39de87e517342377f49ae78d2d7d9') in 0.153731 seconds 
+  Import took 0.157104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.855940 seconds.
+  path: Assets/Graphics/UI/Font/Geometry Dash Font.png
+  artifactKey: Guid(94aa9bdfe35358940ae2b643bfac62bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/Font/Geometry Dash Font.png using Guid(94aa9bdfe35358940ae2b643bfac62bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c07044567fe356e9438a4305ad71bec') in 0.113385 seconds 
+  Import took 0.116662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 385.966759 seconds.
+  path: Assets/Graphics/UI/Geometry Dash Buttons.png
+  artifactKey: Guid(dddbfa5b05db78a41b76ef62a7db2113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/Geometry Dash Buttons.png using Guid(dddbfa5b05db78a41b76ef62a7db2113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd0ee11fe84c42c592540bcb8c84766d') in 0.060871 seconds 
+  Import took 0.064297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.149823 seconds.
+  path: Assets/Prefabs/NarrowSpike.prefab
+  artifactKey: Guid(28ece96488725284a89d1614b17deed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/NarrowSpike.prefab using Guid(28ece96488725284a89d1614b17deed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4208e8159c95f5dccfa8a3110438c2d') in 0.023550 seconds 
+  Import took 0.027426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.158298 seconds.
+  path: Assets/Graphics/UI/GJ_button_01-hd.png
+  artifactKey: Guid(3f7c8ff25af6f0947b4eac0922161d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/GJ_button_01-hd.png using Guid(3f7c8ff25af6f0947b4eac0922161d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2c80389bcf33a1be4cdc557d74a8d70') in 0.016832 seconds 
+  Import took 0.019985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.044332 seconds.
+  path: Assets/Graphics/UI/SoundButton.png
+  artifactKey: Guid(3f7c8ff25af6f0947b4eac0922161d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/UI/SoundButton.png using Guid(3f7c8ff25af6f0947b4eac0922161d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7942973e235f229b96b918f8e3b55dc') in 0.017627 seconds 
+  Import took 0.020603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2927.215268 seconds.
+  path: Assets/2D Casual UI
+  artifactKey: Guid(eea07922793fb45d98e734985805ce9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Casual UI using Guid(eea07922793fb45d98e734985805ce9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d225f613f16905199fa3c76a8efe1fc') in 0.010564 seconds 
+  Import took 0.016654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.489098 seconds.
+  path: Assets/2D Casual UI/Sprite/GUI.png
+  artifactKey: Guid(1eaee135ce037439d925cee5e41ce026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Casual UI/Sprite/GUI.png using Guid(1eaee135ce037439d925cee5e41ce026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cea483e762edcbaab8657f87754a8053') in 0.220883 seconds 
+  Import took 0.224248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.691961 seconds.
+  path: Assets/2D Casual UI/Sprite/GUI.png
+  artifactKey: Guid(1eaee135ce037439d925cee5e41ce026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Casual UI/Sprite/GUI.png using Guid(1eaee135ce037439d925cee5e41ce026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a598c9b37db05659e32ec8b2b299549') in 0.169492 seconds 
+  Import took 0.173515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 267.610735 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b4cbde9565bf190136f1148817e1ea') in 0.010788 seconds 
+  Import took 0.014172 seconds .
+
