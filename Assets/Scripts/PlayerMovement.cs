@@ -10,6 +10,7 @@ public class PlayerMovement : MonoBehaviour {
     [Header("Physical values")]
     public float jumpHeight = 5f;
     public float gravityScale = 5f;
+    public float aerialForce = 5f;
     
     
     [Header("Ground checking")]
@@ -24,19 +25,35 @@ public class PlayerMovement : MonoBehaviour {
     
     void Update()
     {
-        HandleJump();
+        HandleMovement();
     }
 
-    void HandleJump() {
-        if (Input.GetMouseButtonDown(0) && IsGrounded()) {
-            rigidbody.gravityScale = gravityScale;
-            float jumpForce = Mathf.Sqrt(jumpHeight * (Physics2D.gravity.y * rigidbody.gravityScale) * -2) 
-                              * rigidbody.mass;
-            rigidbody.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+    void HandleMovement() {
+        switch (LevelManager.Instance.levelState) {
+            case LevelState.Ground:
+                if (Input.GetMouseButtonDown(0) && IsGrounded()) {
+                    rigidbody.gravityScale = gravityScale;
+                    float jumpForce = Mathf.Sqrt(jumpHeight * (Physics2D.gravity.y * rigidbody.gravityScale) * -2) 
+                                      * rigidbody.mass;
+                    rigidbody.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
 
-            if (rigidbody.velocity.y > 0) {
-                rigidbody.gravityScale = gravityScale;
-            }
+                    if (rigidbody.velocity.y > 0) {
+                        rigidbody.gravityScale = gravityScale;
+                    }
+                }
+                break;
+            case LevelState.Aerial:
+                if (Input.GetMouseButton(0)) {
+                    rigidbody.gravityScale = gravityScale;
+                    float jumpForce = Mathf.Sqrt(jumpHeight * (Physics2D.gravity.y * rigidbody.gravityScale) * -2) 
+                                      * rigidbody.mass;
+                    rigidbody.AddForce(Vector2.up * jumpForce, ForceMode2D.Force);
+                    
+                    if (rigidbody.velocity.y > 0) {
+                        rigidbody.gravityScale = gravityScale;
+                    }
+                }
+                break;
         }
     }
 
@@ -51,6 +68,8 @@ public class PlayerMovement : MonoBehaviour {
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.CompareTag("Deadzone")) {
             SceneManager.LoadScene("Scenes/Play");
+        }else if (other.CompareTag("StateChanger")) {
+            LevelManager.Instance.ChangeState();
         }
     }
 }
