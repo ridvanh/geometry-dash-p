@@ -65,6 +65,9 @@ public class PlayerMovement : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.CompareTag("Deadzone")) {
+            if (AudioManager.Instance.enableSfx) {
+                AudioManager.Instance.PlayDeathSound();
+            }
             SceneManager.LoadScene("Scenes/Play");
         }else if (other.CompareTag("StateChanger")) {
             LevelManager.Instance.ChangeState();
