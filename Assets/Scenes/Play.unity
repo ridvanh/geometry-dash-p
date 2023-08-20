@@ -13882,7 +13882,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jumpHeight: 2.5
   gravityScale: 7.5
-  aerialForce: 5
   extraHeight: 0.2
   landableLayers:
     serializedVersion: 2

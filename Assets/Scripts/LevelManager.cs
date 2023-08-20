@@ -1,13 +1,9 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Security.Cryptography;
 using UnityEngine;
 
 public class LevelManager : MonoBehaviour
 {
-    //Singleton
     public static LevelManager Instance { get; private set; }
+    public LevelState levelState;
 
     private void Awake() {
         if (Instance != null && Instance != this) {
@@ -18,9 +14,6 @@ public class LevelManager : MonoBehaviour
         }
     }
     
-    //Other properties and methods
-    public LevelState levelState;
-
     private void Start() {
         levelState = LevelState.Ground;
     }
@@ -28,11 +21,9 @@ public class LevelManager : MonoBehaviour
     public void ChangeState() {
         switch (levelState) {
             case LevelState.Ground:
-                Debug.Log("Level State has changed to Aerial");
                 levelState = LevelState.Aerial;
                 break;
             case LevelState.Aerial:
-                Debug.Log("Level State has changed to Ground");
                 levelState = LevelState.Ground;
                 break;
         }
